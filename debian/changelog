@@ -1,3 +1,10 @@
+pi-topd (5.3.1-2) bullseye; urgency=medium
+
+  * [pre-commit.ci] pre-commit autoupdate (#154)
+  * [pre-commit.ci] pre-commit autoupdate (#156)
+
+ -- pi-top <deb-maintainers@pi-top.com>  Tue, 22 Mar 2022 17:08:04 +0000
+
 pi-topd (5.3.1-1) bullseye; urgency=medium
 
   * Configure SPI bus when a change is detected (#152)
